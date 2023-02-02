@@ -4,7 +4,13 @@ body {
   padding: 0;
   text-align: center;
 }
+.heroImage{
+  height:75vh
 
+}
+.heroImage img { 
+  width: 100%;
+}
 header {
   text-align: center;
 }
@@ -20,7 +26,7 @@ header h1 {
 nav{
   padding: 20px;
   display: flex;
-  justify-content: space-between;
+  justify-content:center;
   margin: 0;
   text-align: center;
 }
